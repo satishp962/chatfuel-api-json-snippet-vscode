@@ -1,8 +1,9 @@
 {
     "name": "chatfuel-api-json-snippets",
-    "publisher": "satishpandey",
+    "publisher": "satishmpandey",
     "description": "Chatfuel API JSON Snippets",
     "version": "0.1.0",
+    "repository": "https://github.com/satishp962/chatfuel-api-json-snippet-vscode",
     "engines": {
         "vscode": "^0.10.5"
     },
