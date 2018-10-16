@@ -1,0 +1,16 @@
+{
+    "name": "chatfuel-api-json-snippets",
+    "publisher": "satishpandey",
+    "description": "Chatfuel API JSON Snippets",
+    "version": "0.1.0",
+    "engines": {
+        "vscode": "^0.10.5"
+    },
+    "categories": ["Snippets"],
+    "contributes": {
+        "snippets": [{
+            "language": "python,php,javascript,markdown,ruby,json,ruby,go",
+            "path": "./snippets/chatfuel-json.code-snippets"
+        }]
+    }
+}
