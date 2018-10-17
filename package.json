@@ -1,17 +1,59 @@
 {
     "name": "chatfuel-api-json-snippets",
+    "displayName": "Chatfuel API JSON Snippets",
     "publisher": "satishmpandey",
-    "description": "Chatfuel API JSON Snippets",
+    "description": "JSON snippets for Chatfuel API",
+    "license": "MIT",
     "version": "0.1.0",
-    "repository": "https://github.com/satishp962/chatfuel-api-json-snippet-vscode",
+    "author": {
+        "name": "Satish Pandey",
+        "url": "https://github.com/satishp962"
+    },
+    "keywords": [
+        "snippets", "chatfuel", "json"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/satishp962/chatfuel-api-json-snippet-vscode"
+    },    
+    "homepage": "https://github.com/satishp962/chatfuel-api-json-snippet-vscode#readme",
+    "icon": "images/logo.png",
+    "galleryBanner": {
+        "theme": "dark"
+    },
     "engines": {
         "vscode": "^0.10.5"
     },
     "categories": ["Snippets"],
     "contributes": {
         "snippets": [{
-            "language": "python,php,javascript,markdown,ruby,json,ruby,go",
-            "path": "./snippets/chatfuel-json.code-snippets"
-        }]
+            "language": "python",
+            "path": "./snippets/chatfuel.json"
+        },
+        {
+            "language": "php",
+            "path": "./snippets/chatfuel.json"
+        },
+        {
+            "language": "javascript",
+            "path": "./snippets/chatfuel.json"
+        },
+        {
+            "language": "markdown",
+            "path": "./snippets/chatfuel.json"
+        },
+        {
+            "language": "ruby",
+            "path": "./snippets/chatfuel.json"
+        },
+        {
+            "language": "json",
+            "path": "./snippets/chatfuel.json"
+        },
+        {
+            "language": "go",
+            "path": "./snippets/chatfuel.json"
+        }
+        ]
     }
 }

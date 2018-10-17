@@ -1,13 +1,34 @@
 ## Chatfuel API JSON snippet for VS Code
-![enter image description here](https://s2.ezgif.com/save/ezgif-2-def20743fe62.gif)
+
+[![Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=satishmpandey.chatfuel-api-json-snippets)](https://marketplace.visualstudio.com/items?itemName=satishmpandey.chatfuel-api-json-snippets)
+
+![demo gif](https://github.com/satishp962/chatfuel-api-json-snippet-vscode/master/images/logo.png)
+
 ## Compatible Languages
 Python, PHP, Javascript, Markdown, Ruby, JSON, Ruby and Go
-## How to use
 
- - Download the `chatfuel-json.code-snippets` file
- - Include the file in the VS code global snippets directory
+## Installation
+### Extension Marketplace
+Launch Quick Open, paste the following command, and press <kbd>Enter</kbd>
+`ext install chatfuel-api-json-snippets`
 
-Fork the repo to contribute.
+### Clone Repository
+
+Change to your Visual Studio Code extensions directory:
+
+```bash
+# Windows
+$ cd %USERPROFILE%\.vscode\extensions
+
+# Linux & macOS
+$ cd ~/.vscode/extensions/
+```
+
+Clone repository as `chatfuel-json`:
+
+```bash
+$ git clone https://github.com/satishp962/chatfuel-api-json-snippet-vscode chatfuel-json
+```
 
 ## Contribute
 Please make pull request if you find anything to improve.
