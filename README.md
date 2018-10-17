@@ -2,7 +2,7 @@
 
 [![Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=satishmpandey.chatfuel-api-json-snippets)](https://marketplace.visualstudio.com/items?itemName=satishmpandey.chatfuel-api-json-snippets)
 
-![demo gif](https://github.com/satishp962/chatfuel-api-json-snippet-vscode/master/images/logo.png)
+![demo gif](https://raw.githubusercontent.com/satishp962/chatfuel-api-json-snippet-vscode/master/images/logo.png)
 
 ## Compatible Languages
 Python, PHP, Javascript, Markdown, Ruby, JSON, Ruby and Go
