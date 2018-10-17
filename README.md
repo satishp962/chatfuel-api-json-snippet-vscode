@@ -1,6 +1,6 @@
 ## Chatfuel API JSON snippet for VS Code
 
-[![Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=satishmpandey.chatfuel-api-json-snippets)](https://marketplace.visualstudio.com/items?itemName=satishmpandey.chatfuel-api-json-snippets)
+![Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=satishmpandey.chatfuel-api-json-snippets)
 
 ![demo gif](https://raw.githubusercontent.com/satishp962/chatfuel-api-json-snippet-vscode/master/images/demo.gif)
 
