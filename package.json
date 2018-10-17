@@ -4,7 +4,7 @@
     "publisher": "satishmpandey",
     "description": "JSON snippets for Chatfuel API",
     "license": "MIT",
-    "version": "0.1.0",
+    "version": "0.2.1",
     "author": {
         "name": "Satish Pandey",
         "url": "https://github.com/satishp962"
@@ -17,9 +17,9 @@
         "url": "https://github.com/satishp962/chatfuel-api-json-snippet-vscode"
     },    
     "homepage": "https://github.com/satishp962/chatfuel-api-json-snippet-vscode#readme",
-    "icon": "images/logo.png",
+    "icon": "images/logo.jpg",
     "galleryBanner": {
-        "theme": "dark"
+        "theme": "light"
     },
     "engines": {
         "vscode": "^0.10.5"
